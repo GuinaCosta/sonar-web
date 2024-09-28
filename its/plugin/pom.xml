@@ -39,7 +39,7 @@
     <dependency>
       <groupId>org.sonarsource.sonarqube</groupId>
       <artifactId>sonar-ws</artifactId>
-      <version>5.6</version>
+      <version>9.9.7.96285</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
